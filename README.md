@@ -28,7 +28,7 @@ A **React-based** web application that generates **AI-powered business plans** u
 
 
 
-## 🛠️ Installation
+## Installation
 
 ### 1. Clone the Repository
 ```bash
