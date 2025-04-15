@@ -7,14 +7,10 @@ A **React-based** web application that generates **AI-powered business plans** u
 
 ## Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Backend](#backend)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
